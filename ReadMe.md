@@ -26,6 +26,7 @@ To build a website for a technology conference that included the following:
   - ClassyCountdown.js
   - jQuery
   - Ajax
+  - jQuery Knob
 3. PostgreSQL
 4. HTML5
 5. Sass / CSS3
