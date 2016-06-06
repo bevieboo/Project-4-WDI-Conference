@@ -4,7 +4,7 @@
 
 WDI Conference is a mock technology conference run by the students of General Assembly.
 
-<img src="http://i.imgur.com/GkFvpnI.png" width="300">
+<img src="http://i.imgur.com/GkFvpnI.png" width="500">
 
 ## Objective
 
