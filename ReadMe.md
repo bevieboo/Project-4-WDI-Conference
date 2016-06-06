@@ -6,6 +6,8 @@ WDI Conference is a mock technology conference run by the students of General As
 
 <img src="http://i.imgur.com/GkFvpnI.png" width="500">
 
+[Click here to view website](https://code-play-wdi-conference.herokuapp.com/)
+
 ## Objective
 
 To build a website for a technology conference that included the following:
@@ -29,7 +31,7 @@ To build a website for a technology conference that included the following:
   - jQuery Knob
 3. PostgreSQL
 4. HTML5
-5. Sass / CSS3
+5. SASS / CSS3
 6. Heroku hosting
 
 
